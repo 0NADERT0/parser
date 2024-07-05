@@ -1,0 +1,6 @@
+requests==2.32.1
+telebot==0.0.5
+psycopg2==2.9.9
+beautifulsoup4==4.12.3
+fake_useragent==1.5.1
+lxml==5.2.2
